@@ -24,9 +24,6 @@ header{
     border-radius: 20px;
     padding: 3%;
 }
-.box{
-    height: 500px;
-}
 .button-task{
     width: 8%;
     background-color: #47ADF1;
@@ -74,6 +71,7 @@ ul{
  #cross{
     color: red;
  }
+  /* lista badge e relativi colori */
  span.badge.bg-45abe9{
     text-align: center;
     display: inline-block;
