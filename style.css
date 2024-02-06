@@ -51,26 +51,23 @@ header{
 ul{
     list-style: none;
 }
+.circle{
+    text-align: center;
+    display: inline-block;
+    width: 25px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 50%;
+ }
 .circle-green{
-    text-align: center;
-    display: inline-block;
-    width: 25px;
-    border: 1px;
-    border-style: solid;
-    border-color: greenyellow;
-    border-radius: 50%;
+    border-color: green;
  }
- .circle-red{
-    text-align: center;
-    display: inline-block;
-    width: 25px;
-    border: 1px;
-    border-style: solid;
+.circle-red{
     border-color: red;
-    border-radius: 50%;
  }
+
  .check{
-    color: greenyellow;
+    color: green;
  }
  .cross{
     color: red;
@@ -88,14 +85,12 @@ ul{
     padding: 0.5%;
     width: 8%;
     border-radius: 8px;
+    color:white;
+    text-align: center;
+    display: inline-block;
  }
 .bg-45abe9{
     background-color: #45ABE9;
- }
- span.badge.bg-9c72e4{
-    text-align: center;
-    display: inline-block;
-    color:white;
  }
  .bg-9c72e4{
     background-color: #9C72E4;
@@ -103,32 +98,12 @@ ul{
  .bg-64c0a9{
     background-color:#64C0A9;
 }
-span.badge.bg-64c0a9{
-    text-align: center;
-    display: inline-block;
-    color:white;
-}
 .bg-f29e33{
     background-color: #F29E33;
-}
-span.badge.bg-f29e33{
-    text-align: center;
-    display: inline-block;
-    color:white;
 }
 .bg-d863a0{
     background-color: #D863A0;
 }
-span.badge.bg-d863a0{
-    text-align: center;
-    display: inline-block;
-    color:white;
-}
 .bg-b0c926{
     background-color: #B0C926;
-}
-span.badge.bg-b0c926{
-    text-align: center;
-    display: inline-block;
-    color:white;
 }
