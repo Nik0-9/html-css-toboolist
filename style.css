@@ -84,11 +84,6 @@ ul{
     margin: 1%;
  }
   /* lista badge e relativi colori */
- span.badge.bg-45abe9{
-    text-align: center;
-    display: inline-block;
-    color:white;
- }
  .badge{
     padding: 0.5%;
     width: 8%;
