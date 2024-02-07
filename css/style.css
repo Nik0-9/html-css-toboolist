@@ -24,6 +24,9 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
+main{
+    max-width: 1200px;
+}
 .section-top{
     background-color: white;
     width: 80%;
@@ -49,7 +52,6 @@ header{
     border: solid 2px lightgray;
 }
 .button{
-    width: 8%;
     border-radius: 5px;
     padding: 5px;
 }
