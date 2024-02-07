@@ -33,21 +33,20 @@ header{
     border-radius: 0 0 20px 20px;
     padding: 3%;
 }
-.button-task{
-    width: 8%;
+.task{
     background-color: #47ADF1;
     color: white;
-    border-radius: 5px;
-    padding: 5px;
     border: none;
 }
-.button-section{
-    width: 8%;
+.section{
     background-color: #ffffff;
     color: lightgray;
+    border: solid 2px lightgray;
+}
+.button{
+    width: 8%;
     border-radius: 5px;
     padding: 5px;
-    border: solid 2px lightgray;
 }
 #line{
     border-width: 1px;
