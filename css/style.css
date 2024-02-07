@@ -24,9 +24,9 @@ header{
     display: inline-block;
     vertical-align: middle;
 }
-main{
+/* main{
     max-width: 1200px;
-}
+} */
 .section-top{
     background-color: white;
     width: 80%;
@@ -66,6 +66,7 @@ main{
     text-align: center;
     display: inline-block;
     width: 25px;
+    height: 25px;
     border: 1px;
     border-style: solid;
     border-radius: 50%;
